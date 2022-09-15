@@ -1,0 +1,39 @@
+Sep 15 09:46:12 10.71.56.0 u136573109 Connection from 10.71.56.0 port 63774 on 82.165.88.111 port 22
+Sep 15 09:46:16 10.71.56.0 u136573109 Accepted password for u136573109 from 10.71.56.0 port 63774 ssh2
+Sep 15 09:46:17 10.71.56.0 u136573109 Starting session: subsystem 'sftp' for u136573109 from 10.71.56.0 port 63774 id 0
+Sep 15 09:46:17 10.71.56.0 u136573109 session opened for local user u136573109 from [10.71.56.0]
+Sep 15 09:47:11 10.71.56.0 u136573109 Connection from 10.71.56.0 port 64064 on 82.165.88.111 port 22
+Sep 15 09:47:11 10.71.56.0 u136573109 Accepted password for u136573109 from 10.71.56.0 port 64064 ssh2
+Sep 15 09:47:11 10.71.56.0 u136573109 Connection from 10.71.56.0 port 64066 on 82.165.88.111 port 22
+Sep 15 09:47:11 10.71.56.0 u136573109 Accepted password for u136573109 from 10.71.56.0 port 64066 ssh2
+Sep 15 09:47:11 10.71.56.0 u136573109 Starting session: subsystem 'sftp' for u136573109 from 10.71.56.0 port 64064 id 0
+Sep 15 09:47:11 10.71.56.0 u136573109 Starting session: subsystem 'sftp' for u136573109 from 10.71.56.0 port 64066 id 0
+Sep 15 09:47:11 10.71.56.0 u136573109 session opened for local user u136573109 from [10.71.56.0]
+Sep 15 09:47:12 10.71.56.0 u136573109 session opened for local user u136573109 from [10.71.56.0]
+Sep 15 09:47:12 10.71.56.0 u136573109 sent status No such file
+Sep 15 09:47:12 10.71.56.0 u136573109 open "/.bash_history" flags READ mode 0666
+Sep 15 09:47:12 10.71.56.0 u136573109 open "/composer.phar" flags READ mode 0666
+Sep 15 09:47:12 10.71.56.0 u136573109 close "/.bash_history" bytes read 256 written 0
+Sep 15 09:47:12 10.71.56.0 u136573109 [10.71.56.0|get|0|256|0|0|0|2f2e626173685f686973746f7279|]
+Sep 15 09:47:12 10.71.56.0 u136573109 open "/index1.html" flags READ mode 0666
+Sep 15 09:47:12 10.71.56.0 u136573109 close "/index1.html" bytes read 336 written 0
+Sep 15 09:47:12 10.71.56.0 u136573109 [10.71.56.0|get|0|336|0|0|0|2f696e646578312e68746d6c|]
+Sep 15 09:47:12 10.71.56.0 u136573109 close "/composer.phar" bytes read 2268732 written 0
+Sep 15 09:47:12 10.71.56.0 u136573109 [10.71.56.0|get|0|2268732|0|0|0|2f636f6d706f7365722e70686172|]
+Sep 15 09:47:12 10.71.56.0 u136573109 open "/.composer/.htaccess" flags READ mode 0666
+Sep 15 09:47:12 10.71.56.0 u136573109 close "/.composer/.htaccess" bytes read 13 written 0
+Sep 15 09:47:12 10.71.56.0 u136573109 [10.71.56.0|get|0|13|0|0|0|2f2e636f6d706f7365722f2e6874616363657373|]
+Sep 15 09:47:12 10.71.56.0 u136573109 open "/.composer/keys.tags.pub" flags READ mode 0666
+Sep 15 09:47:12 10.71.56.0 u136573109 open "/.composer/keys.dev.pub" flags READ mode 0666
+Sep 15 09:47:12 10.71.56.0 u136573109 close "/.composer/keys.tags.pub" bytes read 799 written 0
+Sep 15 09:47:12 10.71.56.0 u136573109 [10.71.56.0|get|0|799|0|0|0|2f2e636f6d706f7365722f6b6579732e746167732e707562|]
+Sep 15 09:47:12 10.71.56.0 u136573109 close "/.composer/keys.dev.pub" bytes read 799 written 0
+Sep 15 09:47:12 10.71.56.0 u136573109 [10.71.56.0|get|0|799|0|0|0|2f2e636f6d706f7365722f6b6579732e6465762e707562|]
+Sep 15 09:47:12 10.71.56.0 u136573109 open "/.composer/cache/.htaccess" flags READ mode 0666
+Sep 15 09:47:12 10.71.56.0 u136573109 open "/logs/access.log.35.gz" flags READ mode 0666
+Sep 15 09:47:12 10.71.56.0 u136573109 close "/.composer/cache/.htaccess" bytes read 13 written 0
+Sep 15 09:47:12 10.71.56.0 u136573109 [10.71.56.0|get|0|13|0|0|0|2f2e636f6d706f7365722f63616368652f2e6874616363657373|]
+Sep 15 09:47:12 10.71.56.0 u136573109 close "/logs/access.log.35.gz" bytes read 21214 written 0
+Sep 15 09:47:12 10.71.56.0 u136573109 [10.71.56.0|get|0|21214|0|0|0|2f6c6f67732f6163636573732e6c6f672e33352e677a|]
+Sep 15 09:47:13 10.71.56.0 u136573109 open "/logs/access.log.37.4" flags READ mode 0666
+Sep 15 09:47:13 10.71.56.0 u136573109 open "/logs/sftp.log" flags READ mode 0666
